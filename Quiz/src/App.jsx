@@ -1,9 +1,11 @@
 import './App.css'
+import Inicio from './components/Inicio'
 
 function App() {
   return (
     <div className='App'>
-      <h1 id='titulo'>Quiz qqwerwerwerwerApp</h1>
+      <h1 id='titulo'>Quiz App</h1>
+      <Inicio />
     </div>
   )
 }
