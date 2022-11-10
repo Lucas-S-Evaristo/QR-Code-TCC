@@ -1,6 +1,6 @@
 import React from 'react'
 import Quiz from "../img/quiz.svg"
-import "./css/Inicio.css"
+import "./Inicio.css"
 
 const Inicio = () => {
     return (
